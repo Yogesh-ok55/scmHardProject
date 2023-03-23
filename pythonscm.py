@@ -213,6 +213,7 @@ def skewsymmetric():
         print('not skewsymmetric')
     print("Thankyou for using matrix calculator")
     print("OK")
+    print("I am Saikat")
 
 
 choice = int(input("Enter your choice : "))
